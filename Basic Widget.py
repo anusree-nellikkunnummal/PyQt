@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
 
 
+
 def window():
     """ A simple application to create basic widget using PyQt """
     app = QApplication(sys.argv)
